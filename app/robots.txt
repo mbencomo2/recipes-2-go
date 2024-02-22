@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /dasboard/
+
+Sitemap: https://recipes2go.vercel.app/sitemap.xml
